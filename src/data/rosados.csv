@@ -1,0 +1,355 @@
+Bodega,Año,Vino_ID,Vino,Rating,Nº_reseñas,Precio,Región
+Marques del Romeral,2019,1155908,Romeral Rosado 2019,3.1,71,3.44,Rioja
+Gran Feudo,2019,1662936,Rosado 2019,3.5,272,3.59,Navarra
+Gran Feudo,2021,1662936,Rosado 2021,3.5,122,3.69,Navarra
+El Circo,2020,4199785,Payaso Granacha Rosé 2020,3.5,41,3.9,Cariñena
+Félix Solís,2020,4486049,Casa Albali Garnacha Rosé 2020,3.9,254,3.95,Valdepeñas
+Nuviana,2021,1656567,Cabernet Sauvignon - Tempranillo Rosado 2021,3.5,59,3.95,Valle del Cinca
+Bodegas Faustino,2021,22350,VII Rosado 2021,3.8,104,3.99,Rioja
+Bach,2021,1212630,Viña Extrísima Rosado 2021,3.6,81,4.01,Cataluña
+El Coto,2021,2034549,Rosado 2021,3.4,130,4.05,Rioja
+Dominio de Eguren,2020,9716845,Protocolo Organic Rosé 2020,3.4,66,4.1,Castilla
+Dominio de Eguren,2019,9398,Protocolo Rosado 2019,3.6,165,4.2,Castilla
+Bodega Sommos,2020,9288209,Syrah - Garnacha Rosé 2020,3.8,69,4.24,Somontano
+Sinforiano,2021,1563481,Sinfo Rosado 2021,4.1,43,4.25,Cigales
+Castaño,2018,85747,Dominio Espinal Rosado 2018,3.4,82,4.3,Yecla
+Familia Torres,2021,2634,De Casta Rosado 2021,3.5,227,4.35,Cataluña
+Viña Zorzal,2020,3409201,Garnacha Rosé 2020,3.5,218,4.41,Navarra
+Baluarte,2019,6312212,Rosado 2019,3.5,47,4.49,Navarra
+Viña Zorzal,2021,3409201,Garnacha Rosé 2021,3.5,27,4.5,Navarra
+Viore,2020,4194841,Rosado 2020,3.5,44,4.5,Toro
+Bodegas Faustino,2021,1310185,V Rosado 2021,3.5,41,4.6,Rioja
+Bodega Sommos,2020,4191007,Glárima Rosado 2020,3.6,32,4.7,Somontano
+Condesa de Leganza,2021,2521491,Selección de Familia Rosado 2021,3.7,46,4.73,Castilla
+Castillo Perelada,N.V.,5800700,Pescador Rosé N.V.,3.4,262,4.75,Empordà
+Borsao Bodegas,2021,5580713,Rosado (Selección Rosado / Rosé) 2021,3.7,48,4.75,Campo de Borja
+Borsao Bodegas,2019,5580713,Rosado (Selección Rosado / Rosé) 2019,3.6,185,4.8,Campo de Borja
+Cune (CVNE),2021,1274811,Rosado 2021,3.4,104,4.8,Rioja
+Raimat,2021,2474095,Clamor Rosado 2021,3.7,123,4.89,Costers del Segre
+Bodegas Faustino,2019,1310185,V Rosado 2019,3.5,159,4.9,Rioja
+Castillo Perelada,2019,1660465,Empordà Jardins Rosé 2019,3.5,39,4.94,Empordà
+Calderona,2017,1903153,Rosado 2017,3.3,29,4.95,Cigales
+Familia Torres,2020,2634,De Casta Rosado 2020,3.3,281,4.95,Cataluña
+Bodegas Valdemar,2021,1815410,Conde de Valdemar Rosado 2021,3.4,39,5.18,Rioja
+D Luis R,2019,8451307,PINC Clarete 2019,3.6,53,5.25,Rioja
+Bodegas Franco-Españolas,2019,1100360,Rioja Bordón Rosado 2019,3.7,79,5.25,Rioja
+El Coto,2020,2034549,Rosado 2020,3.5,277,5.25,Rioja
+Oliver Conti,2020,6457613,Indispensable Rosé 2020,3.4,32,5.25,Empordà
+Marqués de Cáceres,2021,1189910,Rioja Rosado 2021,3.6,312,5.32,Rioja
+Familia Torres,2021,28584,Viña Sol Rosado 2021,3.5,56,5.49,Cataluña
+Señorío de Sarria,2021,7566105,Garnacha - Graciano Rosé 2021,3.5,34,5.5,Navarra
+Bodega Sommos,2021,9288209,Syrah - Garnacha Rosé 2021,3.8,37,5.6,Somontano
+Bodegas Care,2020,1261831,Rosado 2020,3.8,121,5.66,Cariñena
+Honoro Vera,2021,4384249,Rosé 2021,3.8,53,5.75,Jumilla
+Bodegas Valdemar,2019,1815410,Conde de Valdemar Rosado 2019,3.5,94,5.75,Rioja
+Honoro Vera,2020,4384249,Rosé 2020,3.6,218,5.75,Jumilla
+Martin Berdugo,2020,1158442,Rosado 2020,3.7,35,5.84,Ribera del Duero
+Bodegas Care,2020,2402354,Solidarity Rosé 2020,3.5,120,5.9,Cariñena
+Bodegas Valdemar,2020,1815410,Conde de Valdemar Rosado 2020,3.5,70,5.9,Rioja
+Familia Torres,2019,28584,Viña Sol Rosado 2019,3.5,527,5.9,Cataluña
+Pagos de Aráiz,2021,4588370,Navarra Rosado 2021,4.0,26,5.9,Navarra
+Félix Solís,N.V.,9683938,Mucho Mas Rosado N.V.,3.8,476,5.95,Vino de España
+Bodega Emina,2021,1540586,Rosado 2021,3.7,28,5.95,Cigales
+Bodega Emina,2020,1540586,Rosado 2020,3.6,82,5.95,Cigales
+Marqués de Cáceres,2021,2202782,Excellens Rioja Rosé 2021,4.0,166,5.95,Rioja
+Castillo de Aresan,2020,7579377,El Rosé de Aresan Garnacha - Cabernet 2020,3.9,163,5.99,Castilla
+La Maldita,2020,5727548,Garnacha Rosé 2020,3.6,109,6.0,Rioja
+Bernavi,2019,7448017,Xalera Rosat 2019,3.6,70,6.0,Vino de España
+Sierra Cantabria,2020,3293066,Rosado 2020,3.8,35,6.03,Rioja
+Vivanco,2018,1766451,Tempranillo - Garnacha Rioja Rosado 2018,3.7,48,6.1,Rioja
+Bodegas Ochoa,2021,50434,Finca El Bosque Rosado de Lágrima 2021,3.4,39,6.14,Navarra
+Viñas del Vero,2020,3303841,Luces Tempranillo - Merlot - Syrah Rosado 2020,3.5,141,6.21,Somontano
+Hacienda López de Haro,2020,3415933,Rosado 2020,3.1,36,6.21,Rioja
+Baron de Ley,2021,1149020,Rioja Rosado 2021,3.7,72,6.25,Rioja
+Protos,2021,1135273,Rosado (Clarete) 2021,3.7,89,6.26,Cigales
+Freixenet,2019,2951145,Mia Rosado 2019,3.6,140,6.3,Castilla
+Cune (CVNE),2018,1274811,Rosado 2018,3.6,782,6.39,Rioja
+Baron de Ley,2020,1149020,Rioja Rosado 2020,3.6,185,6.4,Rioja
+Bodegas Care,2021,2402354,Solidarity Rosé 2021,3.6,58,6.4,Cariñena
+Obalo,2019,4563981,Rioja Rosado 2019,3.8,40,6.45,Rioja
+Ramón Bilbao,2021,1251649,Rioja Rosado 2021,3.7,356,6.45,Rioja
+Viña Real,2020,3614008,Rioja Rosado 2020,3.6,86,6.5,Rioja
+Olivares,2021,2263226,Rosado 2021,3.6,41,6.5,Jumilla
+El Miracle,2021,8424983,No. 05 2021,3.6,49,6.5,Valencia
+Familia Torres,2020,28584,Viña Sol Rosado 2020,3.6,214,6.5,Cataluña
+Viña Real,2021,3614008,Rioja Rosado 2021,3.9,62,6.5,Rioja
+Olivares,2020,2263226,Rosado 2020,3.6,232,6.5,Jumilla
+Marqués de Riscal,2021,1163699,Rosado 2021,3.6,121,6.57,Rioja
+Ostatu,2021,1606786,Rioja Rosé 2021,4.0,69,6.75,Rioja Alavesa
+Castillo Perelada,2019,1764981,Emporda Cigonyes Rosé 2019,3.9,57,6.75,Empordà
+Obalo,2020,4563981,Rioja Rosado 2020,4.1,31,6.8,Rioja
+Baron de Ley,2021,8729994,Rosado de Lágrima 2021,4.1,50,6.84,Rioja
+Hacienda López de Haro,2019,3415933,Rosado 2019,3.6,148,6.9,Rioja
+Izadi,2021,2211676,Rioja Larrosa 2021,4.0,91,6.94,Rioja
+Viña Pomal,2021,4695160,Garnacha - Viura Rosé 2021,3.7,30,6.95,Rioja
+Protos,2019,1135273,Rosado (Clarete) 2019,3.5,280,6.99,Cigales
+Campillo,2021,1564164,Rosado Rioja 2021,3.8,54,6.99,Rioja
+Viñas del Vero,2021,4384363,Pinot Noir Rosado 2021,3.9,26,7.06,Somontano
+Marqués de Riscal,2020,1163699,Rosado 2020,3.5,224,7.1,Rioja
+Protos,2020,1135273,Rosado (Clarete) 2020,3.5,245,7.1,Cigales
+Baigorri,2021,97070,Rioja Rosado 2021,3.6,33,7.1,Rioja
+Espelt,2021,1177912,Coralí 2021,3.5,36,7.11,Empordà
+Juvé & Camps,2020,2486090,Aurora D'Espiells Rosé 2020,3.8,50,7.12,Penedès
+Artadi,2020,49774,Artazuri Garnacha Rosado (Artazu) 2020,3.8,48,7.25,Navarra
+Oliveda,2021,2204541,Ullones 2021,3.8,27,7.43,Empordà
+La Vinyeta,2019,1656493,Heus Rosat 2019,3.4,28,7.49,Empordà
+Finca Bacara,2020,8390083,Garnacha Rosé 2020,3.6,28,7.7,Murcia
+Familia Torres,2021,4096075,Viña Esmeralda Rosado 2021,3.7,66,7.71,Cataluña
+Parés Baltà,2020,1715335,Penedès Ros De Pacs 2020,3.5,36,7.88,Penedès
+Abadal,2020,90064,Rosat 2020,3.7,26,7.88,Pla de Bages
+Espelt,2020,1177912,Coralí 2020,3.9,39,7.9,Empordà
+Enate,2020,1829739,Cabernet Sauvignon Rosado 2020,3.8,269,7.9,Somontano
+Protos,2021,5803518,Aire de Protos 2021,3.7,121,7.9,Cigales
+Castillo de Maetierra,2019,99083,Libalis Rosé 2019,3.7,125,7.95,Valles de Sadacia
+Ramón Bilbao,2020,1251649,Rioja Rosado 2020,3.7,618,7.95,Rioja
+Altanza,2020,6262054,Alma Bohemia Rosé 2020,4.1,43,7.95,Rioja
+Campillo,2020,1564164,Rosado Rioja 2020,3.6,74,7.95,Rioja
+Sinforiano,2021,5610625,Quelías Rosé 2021,4.1,77,7.99,Cigales
+Castillo Perelada,2019,3112409,Empordà Collection Rosé 2019,3.8,57,8.1,Empordà
+Castillo Perelada,2018,3112409,Empordà Collection Rosé 2018,3.5,26,8.1,Empordà
+Enate,2021,1829739,Cabernet Sauvignon Rosado 2021,4.0,147,8.14,Somontano
+Cepa 21,2019,2626263,Hito Rosado 2019,3.6,286,8.3,Ribera del Duero
+Cepa 21,2021,2626263,Hito Rosado 2021,3.8,67,8.3,Ribera del Duero
+Avgvstvs,2021,2528968,Rosat 2021,3.7,28,8.3,Penedès
+Soto y Manrique,2021,2348849,Naranjas Azules Garnacha Rosado 2021,3.6,57,8.4,Castilla y León
+Wineissocial,2019,4695155,La Mar de Rosa 2019,3.3,62,8.4,Empordà
+Abadal,2021,90064,Rosat 2021,3.7,34,8.45,Pla de Bages
+Mesquida Mora,2019,4465091,Sincronia Rosat 2019,3.6,43,8.5,Mallorca
+Castillo de Maetierra,2015,99083,Libalis Rosé 2015,3.3,92,8.5,Valles de Sadacia
+Fra Guerau,2019,2442430,Amor Loco 2019,3.7,26,8.69,Montsant
+Muga,2021,7490,Muga Rosado 2021,3.9,406,8.75,Rioja
+Dominio Dostares,2019,1231561,Tombú Prieto Picudo 2019,3.5,32,8.85,Castilla y León
+Juvé & Camps,2021,2486090,Aurora D'Espiells Rosé 2021,3.6,43,8.89,Penedès
+Bicicletas y Peces,2021,5463558,Tempranillo Rosė 2021,3.8,95,8.95,Somontano
+Dominio del Bendito,2019,4887233,Perl Arena Rosado 2019,3.8,55,8.95,Toro
+Bodega Otazu,2021,1173650,Otazu Merlot Rosado 2021,3.6,31,9.1,Navarra
+Chivite,2021,3527928,Las Fincas Rosado 2021,3.9,268,9.67,Navarra
+Llopart,2021,5509556,'La Vida Secreta de les Plantes' Carmi Rosat 2021,3.8,49,9.8,Penedès
+Can Sumoi,2021,6141269,La Rosa 2021,4.0,185,9.81,Penedès
+Can Sumoi,2019,6141269,La Rosa 2019,3.6,273,9.81,Penedès
+D. Mateos,2020,7481777,Insaciable Garnacha 2020,4.0,60,9.9,Rioja
+Nabal,2020,4004715,Rosé 2020,3.9,68,9.95,Ribera del Duero
+Canals Canals,2021,4422694,Fragància de Marta 2021,4.0,28,9.95,Penedès
+Juvé & Camps,2019,2486090,Aurora D'Espiells Rosé 2019,3.5,48,10.25,Penedès
+Jean Leon,2021,1567205,3055 Rosé 2021,3.6,37,10.26,Penedès
+Torelló,2021,4427733,Rosa d'Abril 2021,3.9,28,10.3,Penedès
+Gonzalo Celayeta,2021,2298596,La Huella de Aitana Rosado 2021,4.3,38,10.5,Navarra
+Rezabal,2021,1663447,Rosé 2021,4.1,82,10.5,Getariako Txakolina
+Arzuaga,2021,2300474,Ribera del Duero Rosae 2021,3.9,79,10.7,Ribera del Duero
+Antídoto,2021,3508744,Roselito 2021,4.0,35,10.7,Ribera del Duero
+Acustic Celler,2020,1913620,Acústic Rosat 2020,3.7,29,10.76,Montsant
+Pittacum,2019,1739811,Petit Pittacum Rosado 2019,3.8,99,10.82,Bierzo
+Pascona,2018,1583776,Trencaclosques de Pascona 2018,3.4,28,10.85,Montsant
+Martín Faixó,2021,4626402,Perafita Rosat 2021,4.0,27,11.23,Empordà
+Antídoto,2020,3508744,Roselito 2020,3.9,119,11.33,Ribera del Duero
+Belondrade,2020,1238913,Quinta Clarisa Belondrade 2020,3.7,55,11.5,Castilla y León
+Lar de Maía,2021,4500123,8º Rosado 2021,3.7,28,11.5,Castilla y León
+Arzuaga,2019,2300474,Ribera del Duero Rosae 2019,3.9,137,11.65,Ribera del Duero
+Celler del Roure,2020,6545671,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2020,3.8,70,11.9,Valencia
+Bodegas Frontaura,2019,7120604,Limited Edition Rosé 2019,3.8,43,11.99,Toro
+Bodegas Bentomiz,2015,1784164,Ariyanas Romé Rosado 2015,3.5,41,12.15,Andalucía
+Alfredo Maestro,2018,4437145,Rosado Clasico de Valladolid 2018,3.7,281,12.4,Castilla y León
+Alfredo Maestro,2019,4437145,Rosado Clasico de Valladolid 2019,3.8,122,12.4,Castilla y León
+Bodegas Binifadet,2021,4285511,Rosat 2021,3.7,50,12.45,Isla de Menorca
+Museum,2020,9716746,Las Musas 2020,3.7,35,12.5,Cigales
+MontRubí,2018,4391513,Gaintus One Night's Rosé 2018,3.7,70,12.5,Penedès
+Can Ràfols dels Caus,2021,1253426,Gran Caus Rosat 2021,4.0,36,13.45,Penedès
+Can Axartell,2021,4626739,Rosado 2021,4.1,183,13.9,Mallorca
+Escabeces,2020,6377394,Rosé 2020,3.6,39,13.95,Tarragona
+Coca i Fitó,2018,2051515,Rosa 2018,3.9,27,14.9,Montsant
+Azul y Garanza,2021,10039768,Naturaleza Salvaje Clarete 2021,4.0,54,14.95,Navarra
+Arínzano,2021,7274981,A de Arinzano Rosé 2021,3.9,28,15.0,Navarra
+Pago de Cirsus,2018,2584637,Rosé Gran Cuvée Especial 2018,3.6,71,15.0,Navarra
+Julieta's,2020,8966697,Golden Rosé 2020,3.7,51,15.3,Rioja
+Bodega Ca'n Verdura,2021,9635837,Tomeu Llabres Supernova Mantonegro Rosat 2021,4.2,29,15.95,Binissalem-Mallorca
+Venus la Universal,2020,5479963,Dido La Solució Rosa 2020,4.0,99,16.47,Montsant
+Alonso & Pedrajo,2018,6887486,La Pequeñita Rosado Macerado 2018,4.3,27,16.75,Rioja
+Vicente Gandía,2021,10629278,Bobal Rosa 2021,3.8,27,16.99,Utiel-Requena
+Llopart,2021,9687926,Vi·brant Rosé 2021,4.1,25,17.8,Penedès
+Muga,2021,5513425,Flor de Muga Rosado 2021,4.1,109,17.82,Rioja
+Sierra Cantabria,2020,9399348,XF Rosado 2020,4.1,133,18.95,Rioja
+Sierra Cantabria,2021,9399348,XF Rosado 2021,4.2,71,18.95,Rioja
+Parés Baltà,2020,1750122,Syrah Radix Rosé 2020,4.1,45,19.9,Penedès
+Costador,2018,3969061,Orange de Noirs 2018,3.9,111,19.95,Cataluña
+Celler Frisach,2020,7421039,Les Alifares 2020,3.9,56,20.5,Terra Alta
+Parés Baltà,2021,1750122,Syrah Radix Rosé 2021,4.1,42,20.5,Penedès
+Ramón Bilbao,2021,8464304,Lalomba Finca LaLinde 2021,4.2,42,20.9,Rioja
+Jose Luis Ripa,2017,8643220,Rosado 2017,4.1,56,20.9,Rioja
+Chivite,2018,1183390,Navarra Coleccion 125 Rosado 2018,4.0,54,21.51,Navarra
+Conde de San Cristobal,2018,5632007,Flamingo Rosé 2018,3.5,77,21.7,Ribera del Duero
+Hispano Suizas,2021,3228374,Impromptu Rosé 2021,4.1,46,21.76,Valencia
+Conde de San Cristobal,2020,5632007,Flamingo Rosé 2020,3.4,31,21.9,Ribera del Duero
+Dominio del Águila,2020,5009547,Pícaro del Águila Clarete 2020,4.0,54,22.27,Ribera del Duero
+Chivite,2019,1183390,Navarra Coleccion 125 Rosado 2019,4.2,29,23.15,Navarra
+Ramón Bilbao,2020,8464304,Lalomba Finca LaLinde 2020,3.9,96,23.75,Rioja
+Castell d'Encus,2018,6570225,Jhana 2018,4.0,78,24.61,Costers del Segre
+Scala Dei,2021,3387477,Pla dels Àngels Rosado 2021,4.2,85,25.42,Priorato
+Marqués de Murrieta,2021,4447972,Primer Rosé 2021,3.9,26,26.55,Rioja
+Marqués de Murrieta,2016,4447972,Primer Rosé 2016,4.0,120,28.35,Rioja
+Marqués de Riscal,2019,5954105,Viñas Viejas Rosado 2019,4.0,31,29.75,Castilla y León
+Puro Rofe,2019,9474768,Mentidero 2019,3.6,33,31.68,Lanzarote
+Terroir Al Límit Soc. Lda,2017,5067357,Roc d'Aubaga Rosé 2017,3.9,40,33.75,Priorato
+Antídoto,2018,3597822,Le Rosé 2018,4.3,42,54.5,Ribera del Duero
+Calandria,2019,1266489,Sonrojo Rosado 2019,4.0,117,7.6515,Navarra
+Armas de Guerra,2019,2437710,Rosado Mencía 2019,3.9,99,4.2,Bierzo
+Ca'N Vidalet,2019,1779461,Blanc de Negres 2019,4.1,50,12.0,Mallorca
+Bodega Iniesta,2018,1836150,Corazón Loco Rosado 2018,3.0,47,4.46,Manchuela
+Clos d'Agon,2018,1552513,Amic Rosé 2018,3.7,25,11.31,Cataluña
+Cepa 21,2013,2626263,Hito Rosado 2013,3.4,65,11.45,Ribera del Duero
+Bach,2018,1212630,Viña Extrísima Rosado 2018,3.5,159,6.95,Cataluña
+Macià Batle,2020,77639,Rosado 2020,3.5,35,9.95,Binissalem-Mallorca
+Obalo,2018,4563981,Rioja Rosado 2018,4.0,105,8.25,Rioja
+Casa Cesilia,2020,1153721,Cesilia Rose 2020,4.0,62,7.3,Alicante
+Viña Ijalba,2020,5123243,Rioja Rosado 2020,3.5,46,6.7,Rioja
+Huerta de Albala,2017,1978024,Barbazul Rosado 2017,3.8,42,14.33626434088524,Cádiz
+La Maldita,2019,5727548,Garnacha Rosé 2019,3.8,97,4.95,Rioja
+Bodegas Care,2017,1261831,Rosado 2017,3.9,79,9.37,Cariñena
+Cillar de Silos,2019,5959277,Dominio del Pidio Rosado 2019,4.1,90,21.76,Ribera del Duero
+Latido de Sara,2019,4285702,Garnacha Rosé 2019,3.6,59,5.6111,Navarra
+Ca'N Vidalet,2021,1779461,Blanc de Negres 2021,4.0,35,13.36,Mallorca
+Pere Seda,2017,4934585,Novell Rosat 2017,3.5,54,8.73,Plà i Llevant
+Miquel Oliver,2017,1251479,Son Caló Rosato 2017,3.4,25,35.0,Plà i Llevant
+Gran Feudo,2020,1662936,Rosado 2020,3.4,173,3.6,Navarra
+Gramona,2020,5645872,Mart Xarel-lo Vermell 2020,4.0,241,10.8,Penedès
+MontRubí,2020,4391513,Gaintus One Night's Rosé 2020,4.0,27,12.9,Penedès
+Bodegas Ochoa,2018,50434,Finca El Bosque Rosado de Lágrima 2018,3.5,165,5.25,Navarra
+Baigorri,2020,97070,Rioja Rosado 2020,3.6,34,7.9,Rioja
+Oliveda,2020,2204541,Ullones 2020,4.0,47,6.8,Empordà
+Can Ràfols dels Caus,2006,1253426,Gran Caus Rosat 2006,4.3,25,22.95,Penedès
+Vivanco,2012,1766451,Tempranillo - Garnacha Rioja Rosado 2012,3.3,117,6.5,Rioja
+Mesta,2019,2342434,Tempranillo Rosé 2019,3.5,701,7.89,Uclés
+Cara Nord,2019,5610941,Conca de Barberà Trepat Rosat 2019,3.7,116,10.5,Conca de Barberà
+Las Campanas,2020,1983693,Garnacha Rosé 2020,3.5,81,3.3,Navarra
+Baigorri,2018,97070,Rioja Rosado 2018,3.4,44,11.83,Rioja
+Viña Pomal,2019,4695160,Garnacha - Viura Rosé 2019,3.8,27,8.95,Rioja
+Los Aguilares,2020,1556886,Rosado 2020,4.0,53,12.95,Sierras de Málaga
+Bodegas Franco-Españolas,2021,1100361,Diamante Semi-Dulce Rosado 2021,3.6,44,7.95,Rioja
+Bodegas Franco-Españolas,2021,1100361,Diamante Semi-Dulce Rosado 2021,3.6,44,7.95,Rioja
+Familia Torres,2016,4096075,Viña Esmeralda Rosado 2016,4.0,722,7.14,Cataluña
+Can Sumoi,2020,6141269,La Rosa 2020,4.0,413,7.54,Penedès
+Raimat,2017,2474095,Clamor Rosado 2017,3.6,89,7.9,Costers del Segre
+Dominio de Eguren,2020,9398,Protocolo Rosado 2020,3.4,78,4.1,Castilla
+Pasión,2020,6176162,Bobal Rosé 2020,3.7,82,7.09039,Utiel-Requena
+Chivite,2020,3527928,Las Fincas Rosado 2020,3.8,429,8.95,Navarra
+Homenaje,2021,6332788,Garnacha Rosado 2021,3.4,46,5.95,Navarra
+Cepa 21,2020,2626263,Hito Rosado 2020,3.8,117,9.0,Ribera del Duero
+R. López de Heredia,2012,9122,Gran Reserva Rosado 2012,4.3,104,74.95,Rioja Alta
+Familia Torres,2019,2634,De Casta Rosado 2019,3.4,315,2.44,Cataluña
+Osborne,2020,2621008,Solaz Rosado 2020,3.1,33,3.86,Castilla
+Born Rosé Barcelona,2020,7199750,Born Rosé 2020,3.9,166,13.12,Cataluña
+R. López de Heredia,2010,9122,Gran Reserva Rosado 2010,4.4,652,40.0,Rioja Alta
+Ramón Bilbao,2016,4581119,LaLomba Rosado 2016,3.8,126,39.5,Rioja
+Arínzano,2019,7274981,A de Arinzano Rosé 2019,3.7,31,14.5,Navarra
+Raimat,2017,3131531,Rosada Cabernet Sauvignon -  Tempranillo 2017,3.6,192,4.95,Cataluña
+Lar de Maía,2017,4500123,8º Rosado 2017,3.3,82,9.95,Castilla y León
+Bodegas Valdemar,2011,1815410,Conde de Valdemar Rosado 2011,3.9,63,5.0,Rioja
+Casa Cesilia,2014,1153721,Cesilia Rose 2014,3.6,28,7.551666666666667,Alicante
+Avancia,2013,1610888,Mencia Rosé 2013,3.5,44,11.35,Valdeorras
+VALENCISO,2019,2717000,Rioja Rose 2019,4.0,48,13.0,Rioja
+Juvé & Camps,2017,2486090,Aurora D'Espiells Rosé 2017,3.4,94,10.15,Penedès
+Vivanco,2019,1766451,Tempranillo - Garnacha Rioja Rosado 2019,3.8,103,4.94,Rioja
+Pardas,2018,1223851,Sumoll Rosado 2018,3.2,34,10.5,Penedès
+Oller del Mas,2016,2310563,Bernat Oller Rosat 2016,3.8,42,9.7,Pla de Bages
+Bodegas Valdemar,2012,1815410,Conde de Valdemar Rosado 2012,3.3,53,5.9,Rioja
+Bodegas Franco-Españolas,2020,1100360,Rioja Bordón Rosado 2020,4.0,59,3.93,Rioja
+Llopart,2019,5509556,'La Vida Secreta de les Plantes' Carmi Rosat 2019,3.6,34,9.5,Penedès
+Dominio del Águila,2016,5009547,Pícaro del Águila Clarete 2016,4.0,166,71.9,Ribera del Duero
+Pradorey,2019,1424841,Rosado 2019,3.7,89,4.95,Ribera del Duero
+Sierra Cantabria,2019,3293066,Rosado 2019,3.8,43,12.77397912425031,Rioja
+Pere Seda,2018,4934585,Novell Rosat 2018,3.2,81,5.99,Plà i Llevant
+Mortitx,2021,1757312,Flaires 2021,3.6,32,12.99,Mallorca
+Can Axartell,2019,4626739,Rosado 2019,4.2,185,12.7,Mallorca
+Irache,2010,1283873,Rosado 2010,3.0,35,3.9,Navarra
+Martín Faixó,2017,4626402,Perafita Rosat 2017,4.0,43,7.66,Empordà
+Bodegas Piqueras,2021,7149577,El Picoteo Rosado 2021,3.6,32,6.9,Almansa
+Nicte,2015,1852450,Prieto Picudo Rosado 2015,3.9,68,9.5,Castilla y León
+Pradorey,2019,1635226,Lia 2019,3.7,126,5.85,Ribera del Duero
+Hermanos Lurton,2019,5599189,Valentin Rosé 2019,3.5,36,13.95,Rueda
+Ramón Bilbao,2017,4581119,LaLomba Rosado 2017,3.9,263,32.0,Rioja
+Espelt,2019,1177912,Coralí 2019,3.6,51,7.11,Empordà
+Abadal,2019,90064,Rosat 2019,3.6,28,7.42,Pla de Bages
+Bodegas Martín Códax,N.V.,3951990,Alma Atlántica Mencía Rosé N.V.,3.8,544,4.94,Rías Baixas
+Bodega Otazu,2020,1173650,Otazu Merlot Rosado 2020,3.8,78,5.9,Navarra
+Sumarroca,2020,3849727,Posidonia Rosé 2020,3.3,41,5.56,Penedès
+Antídoto,2016,3508744,Roselito 2016,3.7,100,10.87,Ribera del Duero
+Llopart,2020,5509556,'La Vida Secreta de les Plantes' Carmi Rosat 2020,3.9,38,7.8,Penedès
+Cellers d'en Guilla,2019,6333828,Vinya del Metge Garnatxa Roja 2019,3.8,30,7.04,Empordà
+Bodegas Martín Códax,N.V.,3951990,Alma Atlántica Mencía Rosé N.V.,3.8,544,4.94,Rías Baixas
+Pradorey,2019,1635226,Lia 2019,3.7,126,5.85,Ribera del Duero
+Raimat,2020,2474095,Clamor Rosado 2020,3.7,92,3.4,Costers del Segre
+Juvé & Camps,2018,2486090,Aurora D'Espiells Rosé 2018,3.6,120,17.85,Penedès
+Adianto,2021,6400972,Rosado 2021,3.2,26,8.95,Cariñena
+Inurrieta,2021,2443822,Mediodía Rosado 2021,3.6,64,4.3,Navarra
+Izadi,2018,2211676,Rioja Larrosa 2018,3.8,507,6.19,Rioja
+Mesta,2021,2342434,Tempranillo Rosé 2021,3.4,42,5.95,Uclés
+Castaño,2020,85754,Monastrell Rosado 2020,3.5,27,6.95,Yecla
+Marqués de Cáceres,2020,1189910,Rioja Rosado 2020,3.6,575,4.95,Rioja
+Los Aguilares,2021,1556886,Rosado 2021,3.9,26,11.2,Sierras de Málaga
+Muga,2020,5513425,Flor de Muga Rosado 2020,4.1,202,23.17,Rioja
+Volver,2014,2529769,Tarima Rosado 2014,3.3,61,4.845,Alicante
+Muga,2017,7490,Muga Rosado 2017,3.7,905,16.17424694869104,Rioja
+Familia Torres,2020,4096075,Viña Esmeralda Rosado 2020,3.9,181,7.94,Cataluña
+Linea Kármán,2020,9611976,Clarete 2020,3.9,34,5.95,Rioja
+Celler de Capçanes,2020,1658874,Mas Donis Rosat Montsant 2020,3.5,94,7.5,Montsant
+Protos,2020,5803518,Aire de Protos 2020,3.8,195,9.32,Cigales
+Dominio del Águila,2018,5009547,Pícaro del Águila Clarete 2018,4.1,105,23.9,Ribera del Duero
+Muga,2020,7490,Muga Rosado 2020,3.8,876,7.3,Rioja
+Familia Torres,2019,4096075,Viña Esmeralda Rosado 2019,3.8,326,6.89,Cataluña
+Venus la Universal,2018,5479963,Dido La Solució Rosa 2018,4.2,389,18.335,Montsant
+Dominio del Águila,2013,5009547,Pícaro del Águila Clarete 2013,3.9,27,81.5,Ribera del Duero
+Bach,2020,1212630,Viña Extrísima Rosado 2020,3.6,140,2.98,Cataluña
+Bodegas Castelo de Medina,2019,1611355,Castelo Rosé 2019,3.5,87,5.62,Castilla y León
+Bach,2020,1212630,Viña Extrísima Rosado 2020,3.6,140,2.98,Cataluña
+Bodegas Castelo de Medina,2019,1611355,Castelo Rosé 2019,3.5,87,5.62,Castilla y León
+Portal del Montsant,2017,100020,Brunus Rosé 2017,3.7,34,11.55,Montsant
+Alta Alella,2018,1373492,Parvus Rosé 2018,3.8,27,7.35,Alella
+Es Fangar,2012,1717332,Twenty Twelve Pink 2012,3.7,110,350.0,Plà i Llevant
+Reina de Castilla,2020,1251551,Isabelino Rosado 2020,3.8,31,4.95,Rueda
+Viña Zorzal,2019,3409201,Garnacha Rosé 2019,3.6,107,6.21,Navarra
+Hispano Suizas,2020,3228374,Impromptu Rosé 2020,4.0,31,19.99,Valencia
+Oller del Mas,2019,2310563,Bernat Oller Rosat 2019,3.6,72,10.45,Pla de Bages
+Oller del Mas,2018,2310563,Bernat Oller Rosat 2018,3.7,29,15.5,Pla de Bages
+Mas Comtal,2018,1786164,Rosat de Llàgrima 2018,3.4,38,6.32,Penedès
+Buil & Giné,2017,85504,Giné Rosat 2017,3.6,27,13.5,Priorato
+Marqués de Murrieta,2018,4447972,Primer Rosé 2018,3.8,68,27.0,Rioja
+Tianna Negre,2019,1661705,Vélo Rosé 2019,3.9,43,8.22,Binissalem-Mallorca
+Pere Seda,2021,4934585,Novell Rosat 2021,3.5,27,8.51,Plà i Llevant
+Pere Seda,2019,4934585,Novell Rosat 2019,3.3,32,8.51,Plà i Llevant
+Raimat,2018,3131531,Rosada Cabernet Sauvignon -  Tempranillo 2018,3.4,83,7.6,Cataluña
+El Grifo,2019,6137904,Rosado de Lágrima 2019,3.7,38,15.0,Lanzarote
+Gran Feudo,2018,1662936,Rosado 2018,3.3,336,3.81,Navarra
+Can Sumoi,2017,6141269,La Rosa 2017,3.6,357,11.18,Penedès
+Nuviana,2020,1656567,Cabernet Sauvignon - Tempranillo Rosado 2020,3.7,94,4.13,Valle del Cinca
+Castillo Perelada,2020,1764981,Emporda Cigonyes Rosé 2020,3.7,25,7.79,Empordà
+Acustic Celler,2018,1913620,Acústic Rosat 2018,4.0,35,9.95,Montsant
+Gramona,2018,5645872,Mart Xarel-lo Vermell 2018,3.8,119,10.71,Penedès
+Coca i Fitó,2017,2051515,Rosa 2017,3.7,52,15.35,Montsant
+VALENCISO,2016,2717000,Rioja Rose 2016,4.0,38,13.5,Rioja
+Cillar de Silos,2020,5959277,Dominio del Pidio Rosado 2020,4.1,64,19.95,Ribera del Duero
+Venus la Universal,2019,5479963,Dido La Solució Rosa 2019,4.1,347,17.9,Montsant
+Soto y Manrique,2020,2348849,Naranjas Azules Garnacha Rosado 2020,3.7,132,6.49,Castilla y León
+Izadi,2020,2211676,Rioja Larrosa 2020,3.8,182,6.95,Rioja
+Cara Nord,2021,5610941,Conca de Barberà Trepat Rosat 2021,3.7,26,10.6,Conca de Barberà
+Marqués de Cáceres,2019,1189910,Rioja Rosado 2019,3.7,639,4.2,Rioja
+Mont Clou,2021,8290866,Rosado 2021,3.8,29,9.95,Somontano
+Viña Ijalba,2021,5123243,Rioja Rosado 2021,3.6,36,8.95,Rioja
+Jean Leon,2019,1567205,3055 Rosé 2019,3.7,96,11.23,Penedès
+Bodega Ribas,2021,2496602,Ribas Rosat 2021,4.0,69,13.23,Mallorca
+Familia Torres,2018,4096075,Viña Esmeralda Rosado 2018,3.9,961,18.904306,Cataluña
+Avgvstvs,2019,2528968,Rosat 2019,4.1,54,7.47,Penedès
+Alta Alella,2019,7294840,Tallareta 2019,3.7,38,14.95,Alella
+Enate,2019,1829739,Cabernet Sauvignon Rosado 2019,3.8,355,9.95,Somontano
+Celler del Roure,2019,6545671,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2019,3.8,183,13.5,Valencia
+El Coto,2019,2034549,Rosado 2019,3.4,301,4.95,Rioja
+Celler del Roure,2018,6545671,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2018,3.7,128,11.161666666666667,Valencia
+Raimat,2017,4995813,Anima de Raimat Rosé 2017,3.5,44,8.5,Costers del Segre
+Muga,2019,5513425,Flor de Muga Rosado 2019,4.1,323,19.95,Rioja
+Familia Torres,2020,5311116,Natureo Syrah - Cabernet Sauvignon Rosado 2020,3.2,91,5.8,Cataluña
+Hispano Suizas,2019,3228374,Impromptu Rosé 2019,4.0,62,19.5,Valencia
+Baron de Ley,2019,1149020,Rioja Rosado 2019,3.5,194,6.7,Rioja
+Marqués de Riscal,2019,1163699,Rosado 2019,3.7,394,6.76,Rioja
+Viñas del Vero,2021,3303841,Luces Tempranillo - Merlot - Syrah Rosado 2021,3.5,65,4.75,Somontano
+Cepa 21,2018,2626263,Hito Rosado 2018,3.7,169,6.7,Ribera del Duero
+Muga,2016,5513425,Flor de Muga Rosado 2016,4.1,187,28.76442781216077,Rioja
+Viñas del Vero,2021,3303841,Luces Tempranillo - Merlot - Syrah Rosado 2021,3.5,65,4.75,Somontano
+Marqués de Riscal,2019,1163699,Rosado 2019,3.7,394,6.76,Rioja
